@@ -153,7 +153,7 @@ async function getBackgroundImg(){
       bg = "Orange.jpg";
   }
   else{
-      bg = "Black Background.jpg";
+      bg = "Gaming.jpg";
   }
 
   backgroundImg = loadImage(bg);
